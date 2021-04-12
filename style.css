@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+head , main, h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: blue;
+}
+
+button{
+    width: 80px;
+}
+
+#fundoPreto{
+    background-color: black;
+    height: 1300px;
+}
